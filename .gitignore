@@ -6,7 +6,7 @@ node_modules/
 .tags
 .tags1
 npm-debug.log
-build/
+dist/
 build_lib/
 package-lock.json
 
